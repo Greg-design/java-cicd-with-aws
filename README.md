@@ -4,7 +4,7 @@
 
 [![Docker Hub Repo](https://img.shields.io/docker/pulls/gregory797/rest-with-spring-boot-erudio.svg)](https://hub.docker.com/r/gregory797/rest-with-spring-boot-erudio)
 
-[![Continuous Integration with GitHub Actions](https://github.com/Greg-design/java-cicd-with-aws/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/Greg-design/java-cicd-with-aws/actions/workflows/continuous-integration.yml)
+[![Continuous Integration with Github Actions](https://github.com/Greg-design/java-cicd-with-aws/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/Greg-design/java-cicd-with-aws/actions/workflows/continuous-integration.yml)
 
 [![Image](https://raw.githubusercontent.com/leandrocgsi/blog-images/refs/heads/main/formacoes_github/27-cicd-java-aws.png "Formação Continuous Integration e Delivery: do Zero ao Deploy com Java, Spring Boot, Docker, Amazon AWS e GitHub Actions")](https://pub.erudio.com.br/formacao-continuous-integration-delivery-java-aws-github-actions?utm_source=github&utm_medium=organic&utm_campaign=readme&utm_content=repo-oficial)
 
